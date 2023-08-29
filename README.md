@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity, WEB Penetration testing**
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **nikhilhazarika9@gmail.com**
 
