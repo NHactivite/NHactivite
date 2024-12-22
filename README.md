@@ -3,10 +3,6 @@
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhactivite&label=Profile%20views&color=0e75b6&style=flat" alt="nhactivite" /> </p>
 
-- 🌱 I’m currently learning **Next js,MongoDB, Database management **
-
-- 💬 Ask me about **C++ and web development**
-
 - 📫 How to reach me **nikhilhazarika9@gmail.com**
 
 - ⚡ Fun fact **just smile..😁**
@@ -22,18 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhactivite&show_icons=true&locale=en&layout=compact" alt="nhactivite" /></p>
 
 
-
-<!--
-**NHactivite/NHactivite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
